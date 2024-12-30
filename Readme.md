@@ -4,4 +4,17 @@ PHP é uma linguagem interpretada livre, usada originalmente apenas para o desen
 
 [Link Documentação](https://www.php.net/)
 
+## Applicação web php
+
+- Docker;
+- Nginx;
+- Php-fpm;
+- Postgresql;
+
+#### Criando image e executando containers 
+``` 
+docker-compose up -d
+```
+
+
 #### Version: 8
