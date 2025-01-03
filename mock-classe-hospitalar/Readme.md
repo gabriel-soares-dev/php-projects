@@ -1,0 +1,5 @@
+# Classe Hospitalar
+
+Desenvolvido em PHP com CMS e banco de dados MySQL, o sistema criado para a classe hospitalar, da Prefeitura do Recife(CETEC), centraliza o gerenciamento de informações acadêmicas e pedagógicas. Este sistema facilita a organização das atividades educacionais para crianças e adolescentes em tratamento contínuo no Hospital Universitário Oswaldo Cruz. Ele permite a gestão personalizada das aulas, o acompanhamento individualizado dos estudantes e a integração com professores, garantindo continuidade educacional mesmo em um ambiente hospitalar.
+
+A ferramenta também possibilita o registro e compartilhamento de atividades para os alunos em tratamento que retornam para casa, promovendo a inclusão e a manutenção do processo de aprendizagem, alinhada ao direito fundamental à educação.
